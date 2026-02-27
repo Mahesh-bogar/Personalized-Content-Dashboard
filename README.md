@@ -22,11 +22,12 @@ Users can search for news, view latest updates, and interact with the dashboard 
 3. Open `index.html` in your browser.
 
 ##  Live Demo
-(Add your deployed link here)
+https://mahesh-bogar.github.io/Personalized-Content-Dashboard/
 
 ##  GitHub Repository
 (Add your GitHub repository link here)
 
 ---
+
 
 Thank you!
